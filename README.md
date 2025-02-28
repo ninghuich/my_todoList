@@ -1,2 +1,1 @@
-# my_todoList
-用vue写的一个todoList。用着挺方便的。
+初学vue时写的一个todoList demo
